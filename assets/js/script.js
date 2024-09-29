@@ -446,6 +446,36 @@
 		});    		
 	}
 
+	// five-item-carousel
+	if ($('.eight-item-carousel').length) {
+		$('.eight-item-carousel').owlCarousel({
+			loop:true,
+			margin:30,
+			nav:true,
+			smartSpeed: 500,
+			autoplay: 1000,
+			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			responsive:{
+				0:{
+					items:1
+				},
+				480:{
+					items:3
+				},
+				600:{
+					items:4
+				},
+				800:{
+					items:6
+				},			
+				1200:{
+					items:8
+				}
+
+			}
+		});    		
+	}
+
 
 	// case-carousel
 	if ($('.case-carousel').length) {
