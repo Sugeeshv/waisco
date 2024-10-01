@@ -1061,17 +1061,6 @@ img {
   transition: all 500ms ease;
 }
 
-.main-menu .navigation > li > a:before{
-  content: '[';
-  left: 0px;
-  top: 30px;
-}
-
-.main-menu .navigation > li > a:after{
-  content: ']';
-  right: 0px;
-  top: 31px;
-}
 
 .main-menu .navigation > li.current > a:before,
 .main-menu .navigation > li.current > a:after,
@@ -9311,6 +9300,9 @@ div#mCSB_1_container{
 .statements-section .tabs-content .content-box .inner-box p{
   color: #a9a6a5;
   margin-bottom: 33px;
+}
+.statements-section .tabs-content .content-box .inner-box ul li{
+  color: #a9a6a5;
 }
 
 .statements-section .tabs-content .content-box .inner-box .theme-btn:hover{
