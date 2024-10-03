@@ -5463,7 +5463,7 @@ div#mCSB_1_container{
   display: block;
 }
 
-.team-block-one .inner-box .image-box .image:before {
+/* .team-block-one .inner-box .image-box .image:before {
   position: absolute;
   content: '';
   width: 100%;
@@ -5472,9 +5472,9 @@ div#mCSB_1_container{
   bottom: 0px;
   right: 0px;
   z-index: 1;
-}
+} */
 
-.team-block-one .inner-box .image-box .image:after{
+/* .team-block-one .inner-box .image-box .image:after{
   position: absolute;
   content: '';
   background: #fff;
@@ -5483,7 +5483,7 @@ div#mCSB_1_container{
   left: 0px;
   bottom: 10px;
   z-index: 1;
-}
+} */
 
 .team-block-one .inner-box .image-box .image img{
   width: 100%;
