@@ -457,7 +457,7 @@
 			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
 			responsive:{
 				0:{
-					items:1
+					items:3
 				},
 				480:{
 					items:3
