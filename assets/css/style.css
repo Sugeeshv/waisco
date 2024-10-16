@@ -4715,6 +4715,7 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   overflow: hidden;
+  padding-bottom: 30px;
 }
 
 .service-block-two .inner-box .image-box .image img{
@@ -4743,6 +4744,7 @@ div#mCSB_1_container{
   opacity: 0.9;
   clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 100% 100%, -260% 0%);
   transition: all 500ms ease;
+  
 }
 
 .service-block-two .inner-box:hover .image-box .image:after{
