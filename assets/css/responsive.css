@@ -23,7 +23,6 @@
   .main-header .menu-left-content .logo-box{
     margin-right: 30px;
   }
-
   .main-header .menu-right-content{
     border-left: none;
     padding-left: 0px;
@@ -1449,6 +1448,10 @@
 }
 
 @media only screen and (max-width: 599px){
+  
+  .main-header .menu-left-content .logo-box{
+    width: 250px;
+  }
 
   .main-header .menu-right-content{
     display: none;
@@ -1589,6 +1592,9 @@
 
 @media only screen and (max-width: 499px){
 
+  .main-header .menu-left-content .logo-box{
+    width: 250px;
+  }
   .mobile-menu{
     width: 100%;
   }
